@@ -4,7 +4,7 @@ Plugin Name: Woo Product Creator
 Plugin URI:
 Description: Create Woocommerce Product
 Author: Pavel Cal
-Version: 1.0.0
+Version: 2.0.0
 Text Domain: cwp
  Author URI: https://websitecreator.cba.pl
 */
